@@ -1,5 +1,6 @@
 Git and Testing at SciPy 2013
 =============================
+test
 
 Welcome to the repository for the [SciPy 2013][] tutorial on
 [Version Control and Unit Testing for Scientific Software][scipy-page],
